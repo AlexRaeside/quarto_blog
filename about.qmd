@@ -1,0 +1,24 @@
+---
+title: "About myself"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AGRaeside
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Welcome to my Blog. I'm NGS bioinformatician by trade and have been interested in doing something with quarto reports in my projects for a while. I've made some Rshiny apps before but I'm starting to think that a lot of the bioinformatics problems that get solved with apps maybe should be getting solved with interactive reports. I'm still learning quarto and getting my thoughts together but it would be so much easier to give the biologists your working with a standalone HTML with some interactive tables, figures and text instead of deploying a full web-app and having to deal with VPNs and servers. So I decided to start this quarto blog to learn more about quarto. I have also always wanted a blog and to write about movies and video-games.
+
+So the blog will primarily hype up any bioinformatics projects I do in my spare time, talk video games, and movies and act as a dev log for when I finally get around to starting a Godot project. Godot is an open-source, very lightweight game engine with its beginner-friendly language GDScript (I know no C#). I've been messing around a little with Godot for about a year now and would love to finish something to say I have. GDscript has a python-like syntax, but Godot can integrate python within projects, so it would be great to have a Godot project doing something interesting with python.
+
+See ya,
+
+Alexander Raeside
